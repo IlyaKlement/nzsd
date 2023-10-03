@@ -7,7 +7,9 @@ body {
 	display: inline;
 }
 
-
+.navbar-inverse {
+	background-color: #2d4620;
+}
 
 .add-to-basket-block {
 	margin-top: 7px;
